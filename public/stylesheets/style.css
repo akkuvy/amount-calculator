@@ -1,0 +1,9 @@
+body{
+  background-image: linear-gradient(to bottom right, rgb(61, 11, 61), black);
+}
+th{
+  color: rgb(233, 230, 230);
+}
+td{
+  color: rgb(233, 230, 230);
+}
